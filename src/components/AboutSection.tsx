@@ -48,10 +48,10 @@ const AboutSection = () => {
           >
             <img 
               src="public/lovable-uploads/18cdc56c-0a53-4c06-a529-a00176280257.png" 
-              alt="Fred Marcus in his studio, 1955" 
+              alt="Bobbi Guliani in his studio, 1955" 
               className="w-full h-auto"
             />
-            <p className="mt-4 text-lg italic font-light">Fred Marcus in his studio<br/>1955</p>
+            <p className="mt-4 text-lg italic font-light">Bobbi Guliani Marcus in his studio<br/>1955</p>
           </div>
           
           <div 
@@ -59,9 +59,9 @@ const AboutSection = () => {
             style={{ transitionDelay: "600ms" }}
           >
             <h3 className="text-2xl mb-6 font-light">"Make every photograph count"</h3>
-            <p className="text-right text-sm mb-8">— FRED MARCUS</p>
+            <p className="text-right text-sm mb-8">— Bobbi Guliani</p>
             <p className="text-lg mb-6">
-              Fred Marcus is a New York institution, handed down from father to
+              Bobbi Guliani is a New York institution, handed down from father to
               son over three generations and eight decades. All along, we've
               been committed to making beautiful photographs and videos that
               tell the stories of life's most important moments.
