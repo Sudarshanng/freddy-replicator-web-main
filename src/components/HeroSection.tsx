@@ -28,7 +28,7 @@ const HeroSection = () => {
           onLoadedData={() => setIsVideoLoaded(true)}
         >
           <source 
-            src="https://cdn.pixabay.com/video/2015/08/08/91-135735330_large.mp4" 
+            src="https://cdn.pixabay.com/video/2023/07/04/169951-842348732.mp4" 
             type="video/mp4" 
           />
           Your browser does not support the video tag.
