@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import weddingPhotos from '../data/photos.json';
 
 interface WeddingPhoto {
   id: string;
@@ -11,9 +12,8 @@ const AllWeddings = () => {
   const [photos, setPhotos] = useState<WeddingPhoto[]>([]);
 
   useEffect(() => {
-    fetch('http://localhost:5004/api/weddings/photos?limit=100')
-      .then(response => response.json())
-      .then(data => setPhotos(data));
+    // Use the imported JSON data instead of fetching from API
+    setPhotos(weddingPhotos);
   }, []);
 
   return (
