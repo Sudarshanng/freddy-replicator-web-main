@@ -59,9 +59,9 @@ const HeroSection = () => {
               fontFamily: "'Playfair Display', serif"
             }}
           >
-            <div>FRED</div>
-            <div className="mt-2">MARCUS</div>
-            <div className="text-base mt-1 tracking-widest">EST. 1941</div>
+            <div>BOBBI</div>
+            <div className="mt-2">GULIANI</div>
+            <div className="text-base mt-1 tracking-widest">EST. 1952</div>
           </h1>
         </div>
         
@@ -73,7 +73,7 @@ const HeroSection = () => {
             transition: "transform 0.7s ease 0.4s, opacity 0.7s ease 0.4s"
           }}
         >
-          Over 80 years of timeless<br />visual storytelling.
+          Over 60 years of timeless<br />visual storytelling.
         </p>
 
         <Link
