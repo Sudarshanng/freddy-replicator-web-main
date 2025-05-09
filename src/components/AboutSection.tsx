@@ -57,8 +57,8 @@ const AboutSection = () => {
               className="text-3xl md:text-5xl font-light leading-tight mb-16 text-gray-900"
               style={{ fontFamily: "'Times New Roman', Times, serif" }}
             >
-              Bobbi Guliani Studio is built on a legacy of <span className="italic font-medium">craftsmanship</span>, 
-              <span className="italic font-medium"> determination</span>, and 
+              Bobbi Guliani Studio is built on a legacy of craftsmanship, 
+               determination and 
               <span className="italic font-medium"> impeccable customer service</span>.
               <span className="block mt-4">
                 We love what we do, and we pride ourselves on delivering quality images
