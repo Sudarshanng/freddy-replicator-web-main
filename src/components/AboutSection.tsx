@@ -78,7 +78,7 @@ const AboutSection = () => {
                   textTransform: "uppercase"
                 }}
               >
-                — BOBBY GULIANI
+                — BOBBI GULIANI
               </figcaption>
             </figure>
           </div>
