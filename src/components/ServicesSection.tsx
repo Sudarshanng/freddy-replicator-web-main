@@ -24,19 +24,19 @@ const ServicesSection = () => {
     {
       id: "WEDDINGS",
       title: "Making a 'big day' last a lifetime.",
-      image: "public/lovable-uploads/690887f7-7b22-4b8f-8b96-19abe5faae5e.png",
+      image: "https://images.squarespace-cdn.com/content/v1/6564afb4f0851760cfcdde58/7b9c38ff-2de4-4881-a33c-7929e5335851/Harini-Aswin-MCC-Hall-Chennai-0609+-+Copy.jpg",
       description: "Capturing the magic of your special day with timeless elegance."
     },
     {
       id: "ENGAGEMENTS",
       title: "First comes love...",
-      image: "public/lovable-uploads/511af21d-61f7-4394-9aaa-55ae1c7dbc75.png",
+      image: "https://media.istockphoto.com/id/1175709402/photo/no-diamond-can-compare-to-this-precious-love.jpg?s=612x612&w=0&k=20&c=do_IAR2f8vzdQ40gLvfhE5hTs3ApK9OBPhC-v8lFAMI=",
       description: "Creating beautiful memories of your journey together."
     },
     {
       id: "FAMILY EVENTS",
       title: "Celebrating moments that define us.",
-      image: "public/lovable-uploads/cc11df9c-c6de-4cc3-a9b5-a35a79c65131.png",
+      image: "https://images.squarespace-cdn.com/content/v1/6033f1f3491cd4498d3a75d2/1653768590734-IZM4HZCDZXLLLPFGHUME/fred-marcus-studio-family-events-ditrapani.jpg?format=1500w",
       description: "From birthdays to bar mitzvahs, preserving your family's special occasions."
     },
     {
