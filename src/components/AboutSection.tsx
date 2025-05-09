@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from "react";
 
 const AboutSection = () => {
@@ -31,58 +32,14 @@ const AboutSection = () => {
     <section id="about" ref={sectionRef} className="py-20 bg-white">
       <div className="max-w-5xl mx-auto px-4 text-center">
         <h2 
-          className={`text-[30px] font-normal mb-10 transition-all duration-1000 ${isVisible ? "opacity-100 transform-none" : "opacity-0 translate-y-10"} big-moore`}
-          style={{ transitionDelay: "200ms" }}
+          className={`text-4xl md:text-5xl font-light mb-10 transition-all duration-1000 ${isVisible ? "opacity-100 transform-none" : "opacity-0 translate-y-10"}`}
+          style={{ transitionDelay: "200ms", fontFamily: "'Playfair Display', serif" }}
         >
-          Fred Marcus Studio is built on a legacy of craftsmanship, determination,
+          Bobbi Guliani Studio is built on a legacy of craftsmanship, determination,
           and impeccable customer service. We love what we do, and we pride
           ourselves on delivering quality images that stand the test of time — every
           time.
         </h2>
-        </div>
-
-        <div className="mt-20">
-          <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
-            <img 
-              src="https://photos.smugmug.com/Services/Fashion-Shows/i-tR5W5h2/0/Kv43dpPhQRDggsBXwdF7TpPzqcLwtLMRt233hkwSn/L/IMG_6805-L.jpg"
-              alt="Fred Marcus Studio - Randall Cobb Wedding" 
-              className="absolute inset-0 w-full h-full object-cover"
-              style={{
-                transform: "translateZ(0px)",
-              }}
-            />
-          </div>
-        </div>
-        
-        <div className="mt-16 mb-16">
-          <div className="sqs-block-content">
-            <figure className="block-animation-slide-up animation-loaded">
-              <blockquote 
-                data-animation-role="quote" 
-                data-animation-override=""
-                className="text-center text-[30px] italic font-light"
-                style={{ fontFamily: "'big-moore', serif" }}
-              >
-                <span>"</span>Make every photograph count<span>"</span>
-              </blockquote>
-              <figcaption 
-                className="source text-center" 
-                style={{
-                  paddingTop: "10px",
-                  fontFamily: "Work Sans, Arial, Helvetica, sans-serif",
-                  fontWeight: 400,
-                  fontStyle: "normal",
-                  fontSize: "13px",
-                  letterSpacing: ".1em",
-                  lineHeight: "27px",
-                  textTransform: "uppercase"
-                }}
-              >
-                — BOBBI GULIANI
-              </figcaption>
-            </figure>
-          </div>
-        </div>
         
         <div className="mt-20 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           <div 
@@ -90,7 +47,7 @@ const AboutSection = () => {
             style={{ transitionDelay: "400ms" }}
           >
             <img 
-              src="/lovable-uploads/18cdc56c-0a53-4c06-a529-a00176280257.png" 
+              src="public/lovable-uploads/18cdc56c-0a53-4c06-a529-a00176280257.png" 
               alt="Fred Marcus in his studio, 1955" 
               className="w-full h-auto"
             />
@@ -117,9 +74,7 @@ const AboutSection = () => {
             </a>
           </div>
         </div>
-        
-
-     
+      </div>
     </section>
   );
 };
