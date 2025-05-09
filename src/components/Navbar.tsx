@@ -48,7 +48,7 @@ const Navbar = () => {
                     <div className="menu-category">
                       <h2 className="text-3xl md:text-4xl font-normal playfair mb-8">Weddings</h2>
                       <div className="flex flex-col space-y-6">
-                        <DrawerClose asChild><a href="#" className="hover:opacity-60 transition-opacity text-xl md:text-2xl">All Weddings</a></DrawerClose>
+                        <DrawerClose asChild><a href="/all-weddings" className="hover:opacity-60 transition-opacity text-xl md:text-2xl">All Weddings</a></DrawerClose>
                         <DrawerClose asChild><a href="#" className="hover:opacity-60 transition-opacity text-xl md:text-2xl">New York City Weddings</a></DrawerClose>
                         <DrawerClose asChild><a href="#" className="hover:opacity-60 transition-opacity text-xl md:text-2xl">Hamptons Weddings</a></DrawerClose>
                         <DrawerClose asChild><a href="#" className="hover:opacity-60 transition-opacity text-xl md:text-2xl">Destination Weddings</a></DrawerClose>
