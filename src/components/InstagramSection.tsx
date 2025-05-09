@@ -12,10 +12,10 @@ const InstagramSection = () => {
   };
 
   const instagramPosts = [
-    { id: 1, image: "public/lovable-uploads/a860539d-3f5e-406d-bc80-4822ff189368.png", isVideo: false },
-    { id: 2, image: "public/lovable-uploads/eb74fbde-5cd5-4c2c-805e-65fe76102813.png", isVideo: false },
-    { id: 3, image: "public/lovable-uploads/8cad317a-397c-480d-be74-5712c2b018ba.png", isVideo: false },
-    { id: 4, image: "public/lovable-uploads/d1bc4155-82ed-47b8-9c0f-653640848270.png", isVideo: false },
+    { id: 1, image: "https://photos.smugmug.com/Portfolio/i-28DjQ97/0/MV2f2kn4ZPcJ9Hv98zBfNLWvxQWX92t5XN8BPm7zq/L/DSC_6526-L.jpg", isVideo: false },
+    { id: 2, image: "https://photos.smugmug.com/Portfolio/i-ZxsV9Lg/0/LHSbmr4T92R6tHLGzfDgJjb2pf5SF7B4LrSPdcdgv/L/D85_1716-2-L.jpg", isVideo: false },
+    { id: 3, image: "https://photos.smugmug.com/Portfolio/i-vT3Hhfv/2/KXwF3sXCk5zqQpVmrvfpv48MhGxzChpsmDM3v2PKs/L/13653433_301661686848532_8090073379047065920_o-L.jpg", isVideo: false },
+    { id: 4, image: "https://photos.smugmug.com/Portfolio/i-BQVpNCw/2/NcnQWsWDVzhBDCRNK25nMNFs8RzWzcMwLKSQWjffd/L/13909380_301662263515141_8477096690723333335_o-L.jpg", isVideo: false },
   ];
 
   return (
@@ -90,7 +90,7 @@ const InstagramSection = () => {
         </div>
         
         <div className="mt-10 text-center text-sm text-gray-500">
-          © 2025 Fred Marcus. All Rights Reserved
+          © 2025 Bobby Guliani. All Rights Reserved
         </div>
       </div>
     </section>
