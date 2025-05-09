@@ -57,7 +57,7 @@ const AboutSection = () => {
               className="text-3xl md:text-5xl font-light leading-tight mb-16 text-gray-900"
               style={{ fontFamily: "'Times New Roman', Times, serif" }}
             >
-              Bobbi Guliani Studio is built on a legacy of craftsmanship, 
+              Bobby Guliani Studio is built on a legacy of craftsmanship, 
                determination and 
               <span className="italic font-medium"> impeccable customer service</span>.
               <span className="block mt-4">
@@ -83,7 +83,7 @@ const AboutSection = () => {
       >
         <img 
           src="https://photos.smugmug.com/Services/Fashion-Shows/i-tR5W5h2/0/Kv43dpPhQRDggsBXwdF7TpPzqcLwtLMRt233hkwSn/L/IMG_6805-L.jpg" 
-          alt="Fashion show photograph by Bobbi Guliani Studio" 
+          alt="Fashion show photograph by bobby guliani Studio" 
           className="w-full h-full object-cover"
           style={{ objectPosition: "center" }}
         />
@@ -109,12 +109,12 @@ const AboutSection = () => {
                 <div className="absolute inset-0 border-2 border-gray-300 transform translate-x-4 translate-y-4 z-0"></div>
                 <img 
                   src="https://photos.smugmug.com/Services/Bobby-in-Action/i-xsHnG2H/0/KWBd7VCWbH2nWV8dHqsmnhBz7KP49RHPfVh8Mc5W8/O/B_8328.jpg" 
-                  alt="Bobbi Guliani in his studio, 1955" 
+                  alt="Bobby Guliani in his studio, 1955" 
                   className="w-full h-auto object-cover relative z-10 shadow-xl"
                 />
               </div>
               <p className="mt-6 text-lg italic font-light text-center md:text-left" style={{ fontFamily: "'Times New Roman', Times, serif" }}>
-                Bobbi Guliani Marcus in his studio
+                Bobby Guliani Marcus in his studio
                 <span className="block text-gray-500">1955</span>
               </p>
             </div>
@@ -128,12 +128,12 @@ const AboutSection = () => {
             >
               <div className="relative mb-10">
                 <h3 className="text-2xl md:text-3xl mb-2 font-light" style={{ fontFamily: "'Times New Roman', Times, serif" }}>"Make every photograph count"</h3>
-                <p className="text-right text-sm text-gray-500" style={{ fontFamily: "'Times New Roman', Times, serif" }}>— Bobbi Guliani</p>
+                <p className="text-right text-sm text-gray-500" style={{ fontFamily: "'Times New Roman', Times, serif" }}>— Bobby Guliani</p>
                 <div className="absolute left-0 -bottom-4 w-20 h-1 bg-gray-300"></div>
               </div>
               
               <p className="text-lg mb-8 leading-relaxed text-gray-800" style={{ fontFamily: "'Times New Roman', Times, serif" }}>
-                Bobbi Guliani is a New York institution, handed down from father to
+                Bobby Guliani is a New York institution, handed down from father to
                 son over three generations and eight decades. All along, we've
                 been committed to making beautiful photographs and videos that
                 tell the stories of life's most important moments.

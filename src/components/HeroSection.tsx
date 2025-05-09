@@ -59,7 +59,7 @@ const HeroSection = () => {
               fontFamily: "'Playfair Display', serif"
             }}
           >
-            <div>BOBBI</div>
+            <div>BOBBY</div>
             <div className="mt-2">GULIANI</div>
             <div className="text-base mt-1 tracking-widest">EST. 1952</div>
           </h1>

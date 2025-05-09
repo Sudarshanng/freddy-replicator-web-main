@@ -118,7 +118,7 @@ const ServicesSection = () => {
               <div className="mt-16 grid grid-cols-1 md:grid-cols-2 gap-16">
                 <div>
                   <blockquote className="text-2xl font-normal text-gray-800 border-l-4 border-gray-300 pl-6" style={{ fontFamily: "'Times New Roman', Times, serif" }}>
-                    "Bobbi Guliani photographers are not only experienced and incredibly talented, but they evoke a sentiment that changes a moment from ordinary to extraordinary."
+                    "bobby guliani photographers are not only experienced and incredibly talented, but they evoke a sentiment that changes a moment from ordinary to extraordinary."
                     <footer className="text-sm mt-4 text-gray-600" style={{ fontFamily: "'Times New Roman', Times, serif" }}>— ALISON BREWSTER</footer>
                   </blockquote>
                 </div>
