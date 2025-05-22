@@ -16,7 +16,7 @@ const BrandStory = () => {
             <h2 className="text-3xl font-light mb-6">OUR STORY</h2>
             <div className="space-y-4 text-gray-700">
               <p>
-                Founded in 2010, Fred Marcus started with a simple vision: to create timeless clothing that combines exceptional craftsmanship with modern sensibilities.
+                Founded in 2010, Bobby Guliani started with a simple vision: to create timeless clothing that combines exceptional craftsmanship with modern sensibilities.
               </p>
               <p>
                 Our garments are crafted using only the finest materials sourced from sustainable producers across the globe. Each piece represents our commitment to quality, style, and responsible fashion.

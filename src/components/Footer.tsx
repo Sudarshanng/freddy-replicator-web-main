@@ -55,7 +55,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <p className="text-gray-600 text-sm">© 2025 Fred Marcus. All rights reserved.</p>
+            <p className="text-gray-600 text-sm">© 2025 Bobby Guliani. All rights reserved.</p>
           </div>
           
           <div className="flex space-x-6">

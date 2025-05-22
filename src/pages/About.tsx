@@ -7,7 +7,7 @@ const About = () => {
       <Navbar />
       <div className="pt-24 pb-20 px-4">
         <div className="max-w-7xl mx-auto">
-          <h1 className="text-4xl font-light mb-8 text-center">ABOUT FRED MARCUS</h1>
+          <h1 className="text-4xl font-light mb-8 text-center">ABOUT Bobby Guliani</h1>
           <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
             Our about page is currently under development. Please check back soon to learn more about our brand story.
           </p>
